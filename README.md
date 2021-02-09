@@ -1,6 +1,32 @@
 <h1 align="center">Hi 👋, I'm Ander</h1>
 <h3 align="center">A web development student from Brazil</h3>
 
+```js
+export default {
+  name: 'Anderson Santana',
+  from: 'Tietê, SP, Brazil',
+  profession: 'Web Development Student',
+  email: 'anderssantana@outlook.com',
+  bornAt: '1982-04-23',
+  stack: [
+    'Javascript',
+    'React',
+    'Redux'
+  ],
+  lovesGaming: true,
+  hobbies: [
+    'Play videogames',
+    'Record podcasts',
+    'Watch movies'
+  ],
+  learnMore (skill) {
+    this.stack.push(skill)
+  }
+}
+```
+
+---
+
 - 📫 How to reach me **anderssantana@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
