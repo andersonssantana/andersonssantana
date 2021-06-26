@@ -11,7 +11,8 @@ export default {
   stack: [
     'Javascript',
     'React',
-    'Redux'
+    'Redux',
+    'Node.js
   ],
   lovesGaming: true,
   hobbies: [
