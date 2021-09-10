@@ -12,7 +12,8 @@ export default {
     'Javascript',
     'React',
     'Redux',
-    'Node.js
+    'Node.js',
+    'WordPress'
   ],
   lovesGaming: true,
   hobbies: [
