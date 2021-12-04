@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ander</h1>
-<h3 align="center">A web development student from Brazil</h3>
+<h3 align="center">Always learning technology, I'm from Brazil</h3>
 
 ```js
 export default {
