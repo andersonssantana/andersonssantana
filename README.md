@@ -5,7 +5,7 @@
 export default {
   name: 'Anderson Santana',
   from: 'Tietê, SP, Brazil',
-  profession: 'Web Development Student',
+  profession: 'Tech Instructor',
   email: 'anderssantana@outlook.com',
   bornAt: '1982-04-23',
   stack: [
