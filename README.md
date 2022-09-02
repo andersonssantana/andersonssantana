@@ -2,7 +2,7 @@
 <h3 align="center">Always learning technology, I'm from Brazil</h3>
 
 ```js
-export default {
+export default ander = {
   name: 'Anderson Santana',
   from: 'Tietê, SP, Brazil',
   profession: 'Tech Instructor',
