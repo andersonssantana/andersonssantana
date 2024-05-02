@@ -4,7 +4,7 @@
 ```js
 export default ander = {
   name: 'Anderson Santana',
-  from: 'Tietê, SP, Brazil',
+  from: 'Jumirim, SP, Brazil',
   profession: 'Tech Instructor',
   email: 'anderssantana@outlook.com',
   bornAt: '1982-04-23',
