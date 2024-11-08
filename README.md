@@ -1,31 +1,22 @@
-<h1 align="center">Hi 👋, I'm Ander</h1>
-<h3 align="center">Always learning technology</h3>
+# Anderson Santana 👨‍💻 | Desenvolvedor Front-End
+React, TypeScript, Node.js, Inteligência Artificial
 
-```js
-export default ander = {
-  name: 'Anderson Santana',
-  from: 'Jumirim, SP, Brazil',
-  profession: 'Tech Instructor',
-  email: 'anderssantana@outlook.com',
-  bornAt: '1982-04-23',
-  stack: [
-    'Javascript',
-    'React',
-    'Redux',
-    'Node.js',
-    'WordPress'
-  ],
-  lovesGaming: true,
-  hobbies: [
-    'Play videogames',
-    'Record podcasts',
-    'Watch movies'
-  ],
-  learnMore (skill) {
-    this.stack.push(skill)
-  }
-}
-```
+## Sobre Mim
+Desenvolvedor Front-End com foco em criar aplicações performáticas e escaláveis utilizando React, TypeScript e tecnologias modernas. Tenho experiência em ensinar mais de 1.100 alunos e estou sempre buscando novos desafios e formas de otimizar a experiência do usuário.
+
+- 🌎 **Localização**: Jumirim, SP, Brasil
+- 💻 **Stack Principal**: JavaScript, React, TypeScript, Node.js, WordPress
+- 🎮 **Hobbies**: Jogar videogames, gravar podcasts, assistir filmes
+
+## Tecnologias
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+## Projetos em Destaque
+- [Chatbot Zeca](https://github.com/andersonssantana/chatbot-mineiro) - Um chatbot em Python usando a API do Gemini e a interface com Gradio.
+
 
 ---
 
