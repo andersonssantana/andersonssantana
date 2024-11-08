@@ -21,7 +21,7 @@ Desenvolvedor Front-End com foco em criar aplicações performáticas e escaláv
 
 Você pode baixar meu currículo em PDF clicando no link abaixo:
 
-[📄 Download do Currículo](https://github.com/andersonssantana/<nome-do-repositorio>/blob/main/Anderson_Souza_Curriculo.pdf)
+[📄 Download do Currículo](https://github.com/andersonssantana/andersonssantana/blob/main/AndersonSouzaSantana_cv.pdf)
 
 ---
 
