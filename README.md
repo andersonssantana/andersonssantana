@@ -17,6 +17,11 @@ Desenvolvedor Front-End com foco em criar aplicações performáticas e escaláv
 ## Projetos em Destaque
 - [Chatbot Zeca](https://github.com/andersonssantana/chatbot-mineiro) - Um chatbot em Python usando a API do Gemini e a interface com Gradio.
 
+## 📄 Meu Currículo
+
+Você pode baixar meu currículo em PDF clicando no link abaixo:
+
+[📄 Download do Currículo](https://github.com/andersonssantana/<nome-do-repositorio>/blob/main/Anderson_Souza_Curriculo.pdf)
 
 ---
 
