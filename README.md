@@ -13,6 +13,13 @@ Desenvolvedor Front-End com foco em criar aplicações performáticas e escaláv
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Inteligência Artificial](https://img.shields.io/badge/Inteligência_Artificial-1D3557?style=flat-square&logo=ai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00C853?style=flat-square&logo=openai&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ## Projetos em Destaque
 - [Chatbot Zeca](https://github.com/andersonssantana/chatbot-mineiro) - Um chatbot em Python usando a API do Gemini e a interface com Gradio.
