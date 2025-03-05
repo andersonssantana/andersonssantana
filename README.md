@@ -1,5 +1,5 @@
 # Anderson Santana 👨‍💻 | Desenvolvedor Front-End
-React, TypeScript, Node.js, Inteligência Artificial
+React.js | JavaScript | TypeScript | Redux
 
 ## Sobre Mim
 Desenvolvedor Front-End com foco em criar aplicações performáticas e escaláveis utilizando React, TypeScript e tecnologias modernas. Tenho experiência em ensinar mais de 1.100 alunos e estou sempre buscando novos desafios e formas de otimizar a experiência do usuário.
