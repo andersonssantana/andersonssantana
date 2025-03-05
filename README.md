@@ -27,6 +27,7 @@ Desenvolvedor Front-End com foco em criar aplicações performáticas e escaláv
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ## Projetos em Destaque
+- [BeTalent People](https://github.com/andersonssantana/betalent-people) - Interface com React 19 para visualização e pesquisa de informações de funcionários.
 - [Chatbot Zeca](https://github.com/andersonssantana/chatbot-mineiro) - Um chatbot em Python usando a API do Gemini e a interface com Gradio.
 
 ## 📄 Meu Currículo
