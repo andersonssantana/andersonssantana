@@ -27,6 +27,8 @@ Desenvolvedor Front-End com foco em criar aplicações performáticas e escaláv
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ## Projetos em Destaque
+- [GTA Vehicles](https://github.com/andersonssantana/betalent-people) - CRUD de gerenciamento de veículos inspirado no universo GTA (Grand Theft Auto), desenvolvido com Meteor.js, React e MongoDB.
+- [AI Quiz](https://github.com/andersonssantana/ai_quiz) -  Gerador de Quiz Interativo que utiliza inteligência artificial para criar perguntas de múltipla escolha sobre qualquer tema escolhido pelo usuário.
 - [BeTalent People](https://github.com/andersonssantana/betalent-people) - Interface com React 19 para visualização e pesquisa de informações de funcionários.
 - [Chatbot Zeca](https://github.com/andersonssantana/chatbot-mineiro) - Um chatbot em Python usando a API do Gemini e a interface com Gradio.
 
