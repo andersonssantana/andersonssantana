@@ -2,7 +2,7 @@
 React.js | JavaScript | TypeScript | Redux
 
 ## Sobre Mim
-Desenvolvedor Front-End com foco em criar aplicações performáticas e escaláveis utilizando React, TypeScript e tecnologias modernas. Tenho experiência em ensinar mais de 1.100 alunos e estou sempre buscando novos desafios e formas de otimizar a experiência do usuário.
+Desenvolvedor com mais de 3 anos de experiência focado em React.js, TypeScript, Node.js, APIs, bancos de dados e testes automatizados. Experiente em metodologias ágeis, arquitetura escalável, Clean Code e colaboração multidisciplinar, atuei também como suporte técnico e instrutor de tecnologia. Tive o privilégio de mentorar mais de 1100 estudantes em minha carreira.
 
 - 🌎 **Localização**: Jumirim, SP, Brasil
 - 💻 **Stack Principal**: JavaScript, React, TypeScript, Node.js, WordPress
