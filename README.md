@@ -1,8 +1,8 @@
-# Anderson Santana (ou apenas "Ander") 👨‍💻 | Desenvolvedor Front-End
+# Anderson Santana 👨‍💻 | Desenvolvedor Front-End
 React.js | JavaScript | TypeScript | Redux
 
 ## Sobre Mim
-Tenho mais de duas décadas de experiência em tecnologia, atuando em áreas como suporte ao cliente, desenvolvimento de software e educação. Desde 1998, combino minhas habilidades com uma paixão genuína por ajudar pessoas, seja resolvendo sistemas complexos ou orientando novos desenvolvedores. Tive o privilégio de mentorar mais de 1100 estudantes em minha carreira.
+Pode me chamar apenas de "Ander". Tenho mais de duas décadas de experiência em tecnologia, atuando em áreas como suporte ao cliente, desenvolvimento de software e educação. Desde 1998, combino minhas habilidades com uma paixão genuína por ajudar pessoas, seja resolvendo sistemas complexos ou orientando novos desenvolvedores. Tive o privilégio de mentorar mais de 1100 estudantes em minha carreira.
 
 Quando não estou resolvendo desafios técnicos ou programando, é bem provável que você me encontre em shows de rock, jogando videogame ou curtindo a família (às vezes dou um jeito de fazer tudo ao mesmo tempo!). Acredito que os melhores profissionais de tecnologia mantêm conexão com o mundo além das telas, unindo excelência técnica e compreensão humana em cada projeto
 
